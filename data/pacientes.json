@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "5ff86647873f82f976d8f88b"
+  },
+  "nombre": "Pablo",
+  "apellido_paterno": "Villegas",
+  "correo": "pvillegas241@gmail.com",
+  "id_paciente": 1,
+  "telefono": 4428243038,
+  "genero": "M"
+},{
+  "_id": {
+    "$oid": "5ff8676db52fea3cdb101f17"
+  },
+  "id_paciente": 2,
+  "nombre": "Sergio",
+  "apellido_paterno": "Villegas"
+},{
+  "_id": {
+    "$oid": "5ff86ebf22393005d8fcec50"
+  },
+  "nombre": "Luis",
+  "apellido_paterno": "Cornejo",
+  "apellido_materno": "Arreola",
+  "id_paciente": 3
+}]

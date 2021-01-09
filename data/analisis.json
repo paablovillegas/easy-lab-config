@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5ff8f8be1935de36e29618aa"
+  },
+  "id_analisis": 1,
+  "analisis": "Glucosa",
+  "componentes": [
+    {
+      "id_componente": 1,
+      "componente": "Glucosa"
+    }
+  ]
+}]
