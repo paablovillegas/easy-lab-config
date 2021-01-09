@@ -5,14 +5,18 @@
   "nombre": "Pablo",
   "apellido_paterno": "Villegas",
   "correo": "pvillegas241@gmail.com",
-  "id_paciente": 1,
+  "id_paciente": {
+    "$numberLong": "1"
+  },
   "telefono": 4428243038,
   "genero": "M"
 },{
   "_id": {
     "$oid": "5ff8676db52fea3cdb101f17"
   },
-  "id_paciente": 2,
+  "id_paciente": {
+    "$numberLong": "2"
+  },
   "nombre": "Sergio",
   "apellido_paterno": "Villegas"
 },{
@@ -22,5 +26,7 @@
   "nombre": "Luis",
   "apellido_paterno": "Cornejo",
   "apellido_materno": "Arreola",
-  "id_paciente": 3
+  "id_paciente": {
+    "$numberLong": "3"
+  }
 }]

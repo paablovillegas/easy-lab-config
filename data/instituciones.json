@@ -2,20 +2,26 @@
   "_id": {
     "$oid": "5ff8ee2b1935de36e29618a5"
   },
-  "id_institucion": 1,
+  "id_institucion":  {
+    "$numberLong": "1"
+  },
   "institucion": "GNP"
 },{
   "_id": {
     "$oid": "5ff8ee801935de36e29618a6"
   },
-  "id_institucion": 2,
+  "id_institucion":  {
+    "$numberLong": "2"
+  },
   "institucion": "Quálitas",
   "descuento": 5
 },{
   "_id": {
     "$oid": "5ff8ef881935de36e29618a7"
   },
-  "id_institucion": 3,
+  "id_institucion":  {
+    "$numberLong": "3"
+  },
   "institucion": "MetLife",
   "descuento": 6
 }]
